@@ -1,5 +1,7 @@
 # LoRA_Easy_Training_Scripts
 
+Fork with fixes for erros and problems
+
 A set of training scripts written in python for use in Kohya's [SD-Scripts](https://github.com/kohya-ss/sd-scripts). It has a UI written in pyside6 to help streamline the process of training models.
 
 #### Old scripts can be found [here](https://github.com/derrian-distro/LoRA_Easy_Training_Scripts/tree/old-scripts)
